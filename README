@@ -1,0 +1,31 @@
+NAME
+    Sah::Schema::DefHash - Sah schemas to validate DefHash
+
+VERSION
+    version 0.02
+
+SYNOPSIS
+     # schemas are put in the %SCHEMAS package variable
+
+DESCRIPTION
+    This module contains Sah schemas to validate DefHash.
+
+SCHEMAS
+    *   defhash
+
+    *   defhash_v1
+
+SEE ALSO
+    Sah, Data::Sah
+
+    DefHash
+
+AUTHOR
+    Steven Haryanto <stevenharyanto@gmail.com>
+
+COPYRIGHT AND LICENSE
+    This software is copyright (c) 2014 by Steven Haryanto.
+
+    This is free software; you can redistribute it and/or modify it under
+    the same terms as the Perl 5 programming language system itself.
+
